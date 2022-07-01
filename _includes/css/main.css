@@ -484,7 +484,7 @@ footer .footer-below {
     -webkit-transform: translateZ(0);
 }
 
-.btn-outline .btn-dark {
+.btn-dark {
     border: solid 2px #{{ site.color.primary }};
     color: #{{ site.color.primary }};
 }
