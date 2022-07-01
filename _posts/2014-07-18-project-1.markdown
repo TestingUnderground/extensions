@@ -1,11 +1,23 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+title: ConspiracyRunner
+date: 2022-07-01
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: May 2020
+devurl: https://steamcommunity.com/profiles/76561198037188113
+profile: tankapples
+requiresurl: https://hacknet-os.com/index_dlc.php
+requires: Labyrinths
+description: 
+	Start off as a recent HS Grad. Go from making a few bucks to uncovering some very wild conspiracy theories.
+	45 Plus missions.
+	Hours of gameplay.
+	Plenty of machines to crack.
+	Mix of real conspiracies, with my own mix.
+	Some areas have actual wiki info on said theories.
+	Work with Chris, and help him help you unlock many mysteries.
+	Finalized Version of ConRunner
+	*Sorry it took so long. Thanks for playing!
 ---
