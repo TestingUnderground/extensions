@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 1
+title: Not Ready
+date: 2020-05-12
+img: cabin.png
+alt: image-alt
+project-date: July 2022
+devurl: https://steamcommunity.com/profiles/unknown
+profile: tankapples
+requiresurl: https://hacknet-os.com/index_dlc.php
+requires: Labyrinths
+download: https://this-is-a-test.polar
+description: Await.
+---

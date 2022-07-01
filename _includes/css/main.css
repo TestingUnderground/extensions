@@ -483,3 +483,8 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.btn-outline .btn-dark {
+    border: solid 2px #{{ site.color.primary }};
+    color: #{{ site.color.primary }};
+}
