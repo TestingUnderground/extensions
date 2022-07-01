@@ -1,7 +1,6 @@
 ---
 layout: default
 modal-id: 1
-title: ConspiracyRunner
 date: 2020-05-12
 img: cabin.png
 alt: image-alt
@@ -19,5 +18,5 @@ description:
 	Some areas have actual wiki info on said theories.
 	Work with Chris, and help him help you unlock many mysteries.
 	Finalized Version of ConRunner
-	*Sorry it took so long. Thanks for playing!
+	*Sorry it took so long. Thanks for playing!*
 ---
