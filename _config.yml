@@ -1,11 +1,11 @@
 # Site settings
 title: Freelancer
-email: hacknet@mail.lv
-url: https://testingunderground.github.io/extensions
-description: "An alternative Hacknet extensions hosting place."
-keywords: "hacknet, hacknet extensions, hacknet workshop, extensions"
-skills: "An alternative place where non-Steam customers can obtain Workshop extensions."
-meta_author: Avonnaire Avon
+email: your-email@domain.com
+url: https://github.com/jeromelachaud/freelancer-theme
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+keywords: "your keywords, separated by commas"
+skills: "Web Developer - Graphic Artist - User Experience Designer"
+meta_author: LastName FirstName
 
 # Google webmaster tools
 google_verify:
@@ -25,38 +25,38 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 11063d #80B3FF
-  primary-rgb: "17,6,61" #"128,179,255"
-  secondary: 2c2c50 #FD6E8A
-  secondary-dark: 262340 #A2122F
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
 
 # Footer settings
 footer:
-  copyright: The General Public
+  copyright: Dr. Henry Jekyll
   location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-#  - title: twitter
+  - title: twitter
     url: http://twitter.com/jekyllrb
-#  - title: facebook
+  - title: facebook
     url:
- # - title: stack-overflow
+  - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
- # - title: bitbucket
+  - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: https://github.com/HacknetExt
+    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: PortHack.Heart
-  - line: En_Romulus
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="https://startbootstrap.com">Start Bootstrap</a>. and configured for Jekyll by <a href="https://github.com/jeromelachaud">jeromelachaud</a>.'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
