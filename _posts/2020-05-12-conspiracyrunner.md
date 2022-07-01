@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 title: ConspiracyRunner
-date: 2022-07-01
+date: 2020-05-12
 img: cabin.png
 alt: image-alt
 project-date: May 2020
