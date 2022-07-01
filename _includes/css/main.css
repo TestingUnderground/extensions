@@ -427,6 +427,7 @@ footer .footer-below {
 .portfolio-modal .modal-content h2 {
     margin: 0;
     font-size: 2em;
+    text-transform: initial;
 }
 
 .portfolio-modal .modal-content img {
